@@ -156,8 +156,12 @@ ul {
         width: auto;
         margin: 10px;
     }
+    article {
+        margin: 1rem; 
+    }
 
 }
+
 
 
 
