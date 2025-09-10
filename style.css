@@ -119,6 +119,10 @@ ul {
     .article-content {
         font-size: 1em;
     }
+
+    article {
+        margin: auto 2rem;
+    }
 }
 
 @media (max-width: 768px) {
@@ -138,4 +142,9 @@ ul {
         height: 60px;
         margin-bottom: 10px;
     }
+
+    article {
+        margin: auto 4rem;
+    }    
+
 }
