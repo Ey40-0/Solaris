@@ -1,1 +1,1 @@
-solaris-2.netlify.app
+https://solaris-2.netlify.app/
